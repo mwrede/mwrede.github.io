@@ -1,0 +1,116 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.trump_tweet_bot{
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 50%;
+}
+
+.bet1{
+  position: absolute;
+  font-size: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.howitdonegif{
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 150%;
+  height: 150%;
+}
+.coding_journey_gif{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 60px;
+  transform: translate(-50%, -50%);
+
+}
+
+.betss{
+  position: relative
+  font-size: 50px;
+  top: 20%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+
+.gains{
+  float:left;
+  position: relative;
+  font-size: 50px;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+.gainz{
+    float:left;
+    position: relative;
+    font-size: 50px;
+    margin: 0 1.5%;
+    width: 30%;
+}
+.total_gains{
+  float:left;
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: 0 1.5%;
+  width: 30%;
+}
+.total_perc_gains{
+  float:left;
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: 0 1.5%;
+  width: 30%;
+}
